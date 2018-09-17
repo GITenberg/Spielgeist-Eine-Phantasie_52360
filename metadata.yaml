@@ -1,0 +1,25 @@
+_repo: Spielgeist-Eine-Phantasie_52360
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Berger, Ludwig
+    alias: Bamberger, Ludwig
+    birthdate: 1892
+    deathdate: 1969
+    gutenberg_agent_id: '46814'
+    url: http://www.gutenberg.org/2009/agents/46814
+description: ''
+gutenberg_issued: '2016-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52360'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German drama -- 20th century'
+- GITenberg
+title: 'Spielgeist: Eine Phantasie'
+url: http://www.gutenberg.org/ebooks/52360
